@@ -1,7 +1,7 @@
 <h1>👋🏾 Olá! Sou Bruno</h1>
 
 <p>
-💻 <strong>Desenvolvedor em formação</strong> com paixão por tecnologia, programação e aprendizado contínuo. Estou em constante evolução nas áreas de suporte técnico, desenvolvimento de software e design para web.
+💻 <strong>Desenvolvedor em formação</strong> interessado em tecnologia, programação e aprendizado. Estou em constante evolução nas áreas de suporte técnico, desenvolvimento de software e design para web.
 </p>
 
 <h2>📚 Experiência e estudos:</h2>
